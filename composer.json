@@ -1,0 +1,17 @@
+{
+    "name": "qypt15/vmark",
+    "autoload": {
+        "psr-4": {
+            "Qypt15\\Vmark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "automan",
+            "email": "1130007491@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
